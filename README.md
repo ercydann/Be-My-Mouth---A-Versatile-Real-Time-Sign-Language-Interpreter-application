@@ -19,7 +19,7 @@ The Sign Language Translator. Its purpose is to allow users to communicate more 
 ## Live Sign Translator on https://bemymouth.netlify.app/
 
 ## Demo Video
-[Sign Language Translator Demo](https://youtu.be/xYxZrKBjtYA](https://youtu.be/8p9XheYPNZA)
+[Sign Language Translator Demo](https://youtu.be/8p9XheYPNZA)
 
 
 ## To Run locally 
