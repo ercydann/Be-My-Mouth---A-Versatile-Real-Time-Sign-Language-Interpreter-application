@@ -18,6 +18,10 @@ The Sign Language Translator. Its purpose is to allow users to communicate more 
 
 ## Live Sign Translator on https://bemymouth.netlify.app/
 
+## Demo Video
+![Sign Language Translator Demo](demo.mp4)
+
+
 ## To Run locally 
 Open `index.html` in Chrome.<br/>
 *NOTE:* This will disable video call functionality.
